@@ -1,0 +1,42 @@
+{
+ "kind": "FileDocument",
+ "id": "files/Demo_FCS_Files.zip",
+ "isDeleted": false,
+ "rev": "",
+ "description": "",
+ "name": "Demo_FCS_Files.zip",
+ "acl": {
+  "kind": "Acl",
+  "owner": "",
+  "aces": []
+ },
+ "createdDate": {
+  "kind": "Date",
+  "value": ""
+ },
+ "lastModifiedDate": {
+  "kind": "Date",
+  "value": ""
+ },
+ "urls": [],
+ "tags": [],
+ "meta": [],
+ "url": {
+  "kind": "Url",
+  "uri": ""
+ },
+ "version": "",
+ "isPublic": false,
+ "projectId": "",
+ "folderId": "0",
+ "dataUri": "2c/ad/2cad560f-57c3-4ce2-adc4-0537d832cae5",
+ "metadata": {
+  "kind": "FileMetadata",
+  "contentType": "",
+  "cacheControl": "",
+  "contentEncoding": "",
+  "contentLanguage": "",
+  "md5Hash": ""
+ },
+ "size": 19966165
+}

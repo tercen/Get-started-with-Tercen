@@ -1,0 +1,42 @@
+{
+ "kind": "FileDocument",
+ "id": "files/Demo_FCS_annotation_file.csv",
+ "isDeleted": false,
+ "rev": "",
+ "description": "",
+ "name": "Demo_FCS_annotation_file.csv",
+ "acl": {
+  "kind": "Acl",
+  "owner": "",
+  "aces": []
+ },
+ "createdDate": {
+  "kind": "Date",
+  "value": ""
+ },
+ "lastModifiedDate": {
+  "kind": "Date",
+  "value": ""
+ },
+ "urls": [],
+ "tags": [],
+ "meta": [],
+ "url": {
+  "kind": "Url",
+  "uri": ""
+ },
+ "version": "",
+ "isPublic": false,
+ "projectId": "",
+ "folderId": "0",
+ "dataUri": "07/c8/07c8f2e1-19f8-45dc-acb5-37f58d21b05b",
+ "metadata": {
+  "kind": "FileMetadata",
+  "contentType": "",
+  "cacheControl": "",
+  "contentEncoding": "",
+  "contentLanguage": "",
+  "md5Hash": ""
+ },
+ "size": 84
+}
